@@ -140,7 +140,7 @@ $RECYCLE.BIN/
 #AWS/SAM
 .aws-sam
 packaged.yaml
-samconfig.toml
+
 
 #jbesw-specific
 testData/
